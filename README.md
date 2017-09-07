@@ -1,2 +1,1 @@
-# privateSchool
-ms
+hello world
